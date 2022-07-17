@@ -1,3 +1,12 @@
+# Assignment instructions https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/labs/module_3/lab_theia_plotly_dash.md.html
+
+# Steps to setup development environment
+# pip3 install pandas dash
+# wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/spacex_launch_dash.csv"
+# following code is a modified version of this skeleton which you can download with
+# wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/labs/module_3/spacex_dash_app.py"
+# python3 spacex_dash_app.py
+
 # Import required libraries
 import pandas as pd
 import dash
